@@ -1,0 +1,4 @@
+1. when compare 2 files close and new then no results
+2. when i click on checkbox auto download.
+3. 2 files compare then its goes to loop
+4. when i see the preview of 2 versions its shows error in old one.
